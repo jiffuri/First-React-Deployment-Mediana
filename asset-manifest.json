@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/First-React-Deployment-Mediana/static/css/main.0812a723.css",
+    "main.js": "/First-React-Deployment-Mediana/static/js/main.842d841a.js",
+    "static/js/787.b0245fda.chunk.js": "/First-React-Deployment-Mediana/static/js/787.b0245fda.chunk.js",
+    "index.html": "/First-React-Deployment-Mediana/index.html",
+    "main.0812a723.css.map": "/First-React-Deployment-Mediana/static/css/main.0812a723.css.map",
+    "main.842d841a.js.map": "/First-React-Deployment-Mediana/static/js/main.842d841a.js.map",
+    "787.b0245fda.chunk.js.map": "/First-React-Deployment-Mediana/static/js/787.b0245fda.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0812a723.css",
+    "static/js/main.842d841a.js"
+  ]
+}
